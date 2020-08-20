@@ -32,7 +32,8 @@
         "#caf9fc",
         "#ff0019",
         "#01096b",
-        "#c93504"
+        "#c93504",
+        "#eaeff1"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -48,24 +49,24 @@
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "cookiesAlert": {
-      "customDialogSelector": true,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "#ff0019",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "80",
-      "text": "Quer ganhar curtidas grátis? Clique <a href='https://api.whatsapp.com/send?phone=5541988655818&text=Me%20envie%20as%20curtidas%20gr%C3%A1tis...'>AQUI</a>.",
-      "textButton": "Não, obrigado"
-    },
     "favicon": "@PROJECT_PATH@/assets/images/youtube-logo-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "gdpr": false
+    "gdpr": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#c93504",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "Quer likes grátis no seu vídeo? Clique <a href='https://umzap.com/TURBOVIEWSFREE'>AQUI</a>.",
+      "textButton": "Não, obrigado"
+    }
   },
   "pages": {
     "index.html": {
