@@ -60,7 +60,7 @@
       "text": "Quer ganhar curtidas grátis? Clique <a href='https://api.whatsapp.com/send?phone=5541988655818&text=Me%20envie%20as%20curtidas%20gr%C3%A1tis...'>AQUI</a>.",
       "textButton": "Não, obrigado"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/youtube-play-logo-transparent.webp",
+    "favicon": "@PROJECT_PATH@/assets/images/youtube-logo-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
