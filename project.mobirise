@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-17_1856",
+    "name": "TurboViews",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -47,7 +47,7 @@
     "uniqCompNum": 32,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "imageResize": true,
+    "imageResize": false,
     "cookiesAlert": {
       "customDialogSelector": true,
       "colorText": "#424a4d",
